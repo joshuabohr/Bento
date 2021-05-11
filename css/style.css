@@ -153,6 +153,10 @@ body {
   margin-left: 20px;
 }
 
+#month {
+  margin-left: 20px;
+}
+
 #greetings {
   font-size: var(--fss);
   color: var(--fg);
